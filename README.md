@@ -44,3 +44,5 @@
 [![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](https://github.com/navinbarnwal#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinbarnwal&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/navinbarnwal#)
+
+Last Edit: - 13-05-2021
