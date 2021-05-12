@@ -8,7 +8,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCifKJL2rq1OGlSBqiMzJYvA?label=YouTube&style=plastic)](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=NavinBarnwal&style=plastic&url=https%3A%2F%2Fnavinbarnwal.com%2F)](https://navinbarnwal.com/) <br>
 
-➜ㅤCurrently a Fresh 2021 MCA Post Graduate<br>
+➜ㅤI'm a Final Year MCA Post Graduate<br>
 ➜ㅤI make Goodies and Tech related Videos on [YouTube](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA) <br>
 ➜ㅤI like writing Tech Articles on my Blog Page: [NavinBarnwal](https://www.navinbarnwal.com/) <br>
 ➜ㅤI make Android applications mostly by using Java <br>
