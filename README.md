@@ -6,7 +6,7 @@
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/navinbarnwal)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=navinbarnwal&label=Profile%20views&color=129e00&style=plastic)](https://github.com/navinbarnwal#)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCifKJL2rq1OGlSBqiMzJYvA?label=YouTube&style=plastic)](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA)‎ ‎
-[![Blog Page](https://img.shields.io/website?color=147FBC&label=NavinBarnwal&style=plastic&url=https%3A%2F%2Fwww.navinbarnwal.com%2F)](https://www.navinbarnwal.com/) <br>
+[![Blog Page](https://img.shields.io/website?color=147FBC&label=NavinBarnwal&style=plastic&url=https%3A%2F%2Fnavinbarnwal.com%2F)](https://navinbarnwal.com/) <br>
 
 ➜ㅤCurrently a Fresh 2021 MCA Post Graduate<br>
 ➜ㅤI make Goodies and Tech related Videos on [YouTube](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA) <br>
