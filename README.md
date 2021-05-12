@@ -24,13 +24,6 @@
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
-## 🌎 Social Handles
-
-[![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knbarnwal/)
-[![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/fVkPnhWP)
-
-
 ## 🧠 Technologies Learnt
 
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/navinbarnwal#)
@@ -43,6 +36,17 @@
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/navinbarnwal#)
 [![](https://img.shields.io/badge/angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](https://github.com/navinbarnwal#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navinbarnwal&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/navinbarnwal#)
+<p align="center">
+<a href="https://github.com/navinbarnwal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=navinbarnwal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navinbarnwal&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## 🌎 Social Handles
+
+[![](https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knbarnwal/)
+[![](https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/fVkPnhWP)
 
 Last Edit: - 13-05-2021
