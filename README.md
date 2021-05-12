@@ -7,13 +7,15 @@
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=navinbarnwal&label=Profile%20views&color=129e00&style=plastic)](https://github.com/navinbarnwal#)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCifKJL2rq1OGlSBqiMzJYvA?label=YouTube&style=plastic)](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=NavinBarnwal&style=plastic&url=https%3A%2F%2Fnavinbarnwal.com%2F)](https://navinbarnwal.com/) <br>
+[<img src="https://img.shields.io/badge/Email-kumar.barnwal%40mca.christuniversity.in-orange">](mailto:kumar.barnwal@mca.christuniversity.in)
 
-➜ㅤI'm a Final Year Post Graduate MCA Student<br>
-➜ㅤI make Goodies and Tech related Videos on [YouTube](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA) <br>
-➜ㅤI like writing Tech Articles on my Blog Page: [NavinBarnwal](https://www.navinbarnwal.com/) <br>
-➜ㅤI make Android applications mostly by using Java <br>
-➜ㅤI am a self-taught Coder <br>
-➜ㅤI love Technology & Cybersecurity <br>
+🎓ㅤI'm a Final Year Post Graduate MCA (2021) Student at [CHRIST (Deeemed to be University)](https://www.christuniversity.in/)<br>
+📺ㅤI make Goodies and Tech related Videos on [YouTube](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA) <br>
+💻ㅤI started writing Tech Articles on my Blog Page: [NavinBarnwal](https://www.navinbarnwal.com/) <br>
+📱ㅤI make Android applications mostly by using Java <br>
+🎨ㅤI am a self-taught Coder <br>
+🌐ㅤI love Technology & Cybersecurity <br>
+➜  Please have a look at my [Résumé](https://navinbarnwal.com/assets/knbarnwal.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ## 🖥 Operating Systems
 
