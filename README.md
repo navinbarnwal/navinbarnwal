@@ -1,7 +1,7 @@
 ## 🧑🏻‍💻 Hey Techies <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Navin <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/><br>
 
 
-[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/navinbarnwal)‎ ‎
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/navinbarnwal)‎ ‎
 [![GitHub User's visitors](https://komarev.com/ghpvc/?username=navinbarnwal&label=Profile%20views&color=129e00&style=plastic)](https://github.com/navinbarnwal#)‎ ‎
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCifKJL2rq1OGlSBqiMzJYvA?label=YouTube&style=plastic)](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA)‎ ‎
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=NavinBarnwal&style=plastic&url=https%3A%2F%2Fnavinbarnwal.com%2F)](https://navinbarnwal.com/)
