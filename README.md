@@ -7,7 +7,7 @@
 [![Blog Page](https://img.shields.io/website?color=147FBC&label=NavinBarnwal&style=plastic&url=https%3A%2F%2Fnavinbarnwal.com%2F)](https://navinbarnwal.com/)
 [<img src="https://img.shields.io/badge/Email-knbarnwal%40gmail.com-orange">](mailto:knbarnwal@gmail.com) <br>
 
-🎓ㅤI'm an Integration Engineer working at [Locus](https://locus.sh/) (Mara Labs Pvt Ltd)
+🎓ㅤI'm an Integration Engineer working at [Locus](https://locus.sh/) (Mara Labs Pvt Ltd)<br>
 🎓ㅤI did my Post Grad in MCA] (2021) from [CHRIST (Deeemed to be University)](https://www.christuniversity.in/)<br>
 📺ㅤI make Goodies and Tech related Videos on [YouTube](https://www.youtube.com/channel/UCifKJL2rq1OGlSBqiMzJYvA) <br>
 💻ㅤI started writing Tech Articles on my Blog Page: [NavinBarnwal](https://www.navinbarnwal.com/) <br>
