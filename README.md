@@ -14,7 +14,7 @@
 📱ㅤI make Android applications mostly by using Java <br>
 🎨ㅤI am a self-taught Coder <br>
 🌐ㅤI love Technology & Cybersecurity <br>
-➜  Please have a look at my [Résumé](https://navinbarnwal.com/assets/navinbarnwal_resume.pdf) for more details about me. I'm open to feedback and suggestions!
+➜  Please have a look at my [Portfolio](https://navinbarnwal.com/aboutme) for more details about me. I'm open to feedback and suggestions!
 
 ## 🖥 Operating Systems
 
